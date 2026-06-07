@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Codex History Sync Tool Icon</title>
+  <desc id="desc">A clean desktop icon with a chat panel and circular sync arrows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="32" y1="24" x2="224" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C2A2E"/>
+      <stop offset="1" stop-color="#11181B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="72" y1="78" x2="184" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFC"/>
+      <stop offset="1" stop-color="#DDEDEA"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="52" fill="url(#bg)"/>
+  <path d="M74 109c8-28 34-49 65-49 18 0 35 7 47 19" fill="none" stroke="#14B8A6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M188 54l8 44-43-9z" fill="#14B8A6"/>
+  <path d="M182 147c-8 28-34 49-65 49-18 0-35-7-47-19" fill="none" stroke="#5EEAD4" stroke-width="16" stroke-linecap="round"/>
+  <path d="M68 202l-8-44 43 9z" fill="#5EEAD4"/>
+  <rect x="68" y="86" width="120" height="84" rx="22" fill="url(#panel)"/>
+  <path d="M93 112h70M93 134h49" fill="none" stroke="#182024" stroke-width="10" stroke-linecap="round"/>
+  <path d="M103 170l-17 22v-22z" fill="#DDEDEA"/>
+</svg>
